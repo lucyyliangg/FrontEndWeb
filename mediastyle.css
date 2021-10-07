@@ -1,0 +1,33 @@
+@media only screen and (min-width: 1000px) {
+  body {
+    background-color: lightblue;
+	text-align: center;
+  }
+  
+  figure {
+  	display: inline-block;
+  }
+  
+}
+
+body{
+	margin: 15px;
+}
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.intro-text{
+	font-size: 25px;
+}
+
+figure {
+	margin: 15px;
+	text-align: center;
+}
